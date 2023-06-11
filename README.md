@@ -2,6 +2,7 @@
 
 This repository contains the code for a line following robot. It includes the following files:
 
+- `line-following-robot.ino` 🏃‍♂️: Code for the full line following (still need PID tunning)
 - `motor-control.ino` 🏃‍♂️: Code for controlling the robot's motors.
 - `rpm-counter.ino` 🔄: Code for measuring the RPM (rotations per minute) of the robot's wheels.
 - `ir-sensor-detection.ino` 🔍: Code to check the IR sensor detection with 16 sensors.
